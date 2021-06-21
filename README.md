@@ -12,7 +12,7 @@ Though running on terminal but hope it be friendly for users!
 
 <h4>Data: </h4>
 Import from ThongTin.txt, update ThongTin.txt and export to GiaoDich.txt
-
+```Vue.component('name_of_this_component', {function_can_pass_through_different_propeties})```
 <h4>Usage: </h4>
 ```
 git clone https://github.com/nt-myduyen/ATM_PBL1.git
