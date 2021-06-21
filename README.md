@@ -16,13 +16,9 @@ Import from ThongTin.txt, update ThongTin.txt and export to GiaoDich.txt
 <h4>Usage: </h4>
 ```
 git clone https://github.com/nt-myduyen/ATM_PBL1.git
-```
-Change path of file contains data of yours
-```
+//Change path of file contains data of yours
 FileDG.open("<path>";
-```
 //Run C++ program
-```
 g++ <filename>.cpp  /  g++ -0 <filename>.cpp
 ```
 
