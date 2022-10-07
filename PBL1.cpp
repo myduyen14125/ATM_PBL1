@@ -220,6 +220,8 @@ int login(int &account,string &password,int index){
 	set_color(white );
 	return 1;
 }
+void edit_byduy(){
+cout<<"nothing hehehe";}
 void login_password(string &password){
 	password = "";
 	char pass_word[7];
