@@ -2,7 +2,7 @@
 // Giang vien huong dan : Tran Ho Thuy Tien
 // Sinh vien thuc hien  : Nguyen Tran My Duyen
 //					    : Nguyen Phuoc Dai Toan
-
+// edit by abc
 #include<iostream>
 #include<fstream>     // doc - ghi file
 #include<conio.h>	  // su dung ham getch() de chuyen mat khau ve *
