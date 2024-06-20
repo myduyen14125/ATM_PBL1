@@ -1,0 +1,8 @@
+fastapi==0.95.1
+uvicorn==0.20.0
+tensorflow==2.15.0
+numpy==1.25.2
+requests
+IPython 
+TIME-python
+pillow==10.3.0
